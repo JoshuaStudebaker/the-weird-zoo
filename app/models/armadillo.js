@@ -1,12 +1,11 @@
 class Armadillo {
   constructor(
     name = "",
-    type = "critter",
     gender = "",
+    favoriteFood = "",
+    type = "critter",
     color = "silver",
-    home = "burrow",
-
-    favoriteFood = ""
+    home = "burrow"
   ) {
     this.name = name;
     this.type = type;
