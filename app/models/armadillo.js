@@ -16,3 +16,5 @@ class Armadillo {
     this.favoriteFood = favoriteFood;
   }
 }
+
+export default Armadillo;
